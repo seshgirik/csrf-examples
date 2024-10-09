@@ -19,9 +19,9 @@
   "dependencies": {
     "bignumber.js": "4.0.0",
     "body-parser": "1.16.1",
-    "express": "4.14.1",
+    "express": "4.21.1",
     "express-handlebars": "3.0.0",
-    "express-session": "1.15.1",
+    "express-session": "1.18.1",
     "serve-static": "1.11.2",
     "underscore": "1.8.3"
   }
